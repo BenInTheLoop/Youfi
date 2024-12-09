@@ -1,4 +1,4 @@
-# 🎵 Youfi
+# 🎵 YouFi
 
 Este proyecto permite transferir las canciones de una playlist de Spotify a una playlist en YouTube Music de forma automática.
 
