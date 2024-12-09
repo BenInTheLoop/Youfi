@@ -4,7 +4,6 @@ Este proyecto permite transferir las canciones de una playlist de Spotify a una 
 
 ## 🚀 Características
 
-- Autenticación automática con Spotify y YouTube Music.
 - Crea una playlist en YouTube Music si no existe.
 - Busca y transfiere canciones desde Spotify a YouTube Music.
 - Manejo de errores para evitar interrupciones.
