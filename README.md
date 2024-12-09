@@ -36,10 +36,8 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
 
     Reemplázalos en el código:
    ```bash
-    SpotifyClientCredentials(
-        client_id='TU_CLIENT_ID',
-        client_secret='TU_CLIENT_SECRET'
-    )
+   # Authenticate with Spotify API
+      sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='[Your Client ID]', client_secret='[Your Client Secret]'))
 
 3. YouTube Music API
 
