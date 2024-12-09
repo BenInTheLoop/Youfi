@@ -21,7 +21,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
 2. **Pip** (gestor de paquetes de Python)  
    Incluido con la mayoría de las instalaciones de Python. Si no lo tienes, instálalo siguiendo esta [guía oficial](https://pip.pypa.io/en/stable/installation/).
 
-3. **Bibliotecas necesarias (SpotiPy & YTMusicApi) **  
+3. **Bibliotecas necesarias (SpotiPy & YTMusicApi)**  
    Instala las dependencias con el siguiente comando:
 
    ```bash
